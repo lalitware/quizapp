@@ -1,0 +1,56 @@
+.col-lg-4{
+    color: aliceblue;
+    padding: 1rem;
+    width: 20%;
+    height: 600px;
+    background-color: rgb(46, 43, 43);
+}
+.col-sm-8{
+    width: 1027px;
+    height: 600px;
+    background-color: beige;
+}
+.line{
+    position: relative;
+    top: 4.5%;
+}
+.btn-outline-dark{
+    position: relative;
+    left: 90%;
+    top: 4%;
+}
+.cat{
+    position: relative;
+    left: 20%;
+    top: -505px;
+    width: 1027px;
+    background-color: white;
+    padding: 1rem;
+}
+.addquiz{
+    position: relative;
+    left: 20%;
+    top: -500px;
+    height: 300px;
+    width: 39%;
+    background-color: white;
+    padding: 1rem;
+
+}
+.addedcat{
+    position: relative;
+    left: 22%;
+    top: -500px;
+    height: 300px;
+    width: 39%;
+    background-color: white;
+    padding: 1rem;
+}
+table,th,td{
+    padding: 10px;
+    border: .5px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+

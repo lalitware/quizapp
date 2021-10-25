@@ -1,0 +1,38 @@
+body{
+    background-image: url("images/image_notebook.jpg");
+}
+.sidepanel{
+    float: left;
+    color: aliceblue;
+    background-color: black;
+    width: fit-content; 
+    height: 595px;
+    padding: 10px;
+}
+table,th,td{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}.addedcat{
+    background-color: azure;
+    width: fit-content;
+    float: left;
+    position: relative;
+    top: 50px;
+    margin: 20px; 
+} 
+.addQuiz{
+    width: fit-content;
+    float: left;
+    margin: 10px;   
+}
+.logoutbtn{
+    float: right;
+    margin: 10px; 
+}
+
+
+
+
+
